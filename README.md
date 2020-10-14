@@ -1,4 +1,4 @@
 ### Some simple javascript Data structure functions 
 
-- (- Just to check Jenkines build -)
+- The main purpose of this project is to check Jenkines pipeline 
 
